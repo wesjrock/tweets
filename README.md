@@ -40,4 +40,4 @@ Just use the makefile:
 
 MORE INFO
 --------------------------------------------------
-* Please check the files `project specification.pdf` `project report.pdf` to view the code and know more about this project.
+* Please check the files `project specification.pdf` and `project report.pdf` to view the code and know more about this project.
