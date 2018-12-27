@@ -21,7 +21,7 @@ USER (username – char)
 COORDINATES (User Coordinates – char)
 FAVORITE_COUNT (Number of times a tweet has been marked as favorite  –  int)
 LANGUAGE (Language – char)
-RETWEET_COUNT (Number of retweets – inteiro)
+RETWEET_COUNT (Number of retweets – int)
 VIEWS_COUNT (Number of tweet views – long)
 ```
 
