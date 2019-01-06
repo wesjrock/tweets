@@ -38,6 +38,13 @@ Just use the makefile:
 	make run
 ```
 
+CREDITS
+--------------------------------------------------
+- Aulos Plautius Martines Marino
+- Paulo Guarnier De Mitri
+- Werik Amaral Fachim
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 * Please check the files `project specification.pdf` and `project report.pdf` to view the code and know more about this project.
